@@ -1,0 +1,115 @@
+<resources>
+    <string name="privacy_policy_link">https://docs.google.com/document/d/1TkhxRrgXVBJgFttPNi1p-5_iugmkKGUyUD4ngGDkCGk/edit?usp=sharing</string>
+    <string name="developer_email">bazuwee@gmail.com</string>
+    <string name="app_version">1.2.0v</string>
+
+    <!--Put Your Price-->
+    <string name="vip_price_month">$1.99</string>
+    <string name="vip_price_3month">$3.99</string>
+    <string name="vip_price_6month">$5.99</string>
+    <string name="vip_price_12month">$9.99</string>
+
+    <string name="settings">Настройки</string>
+    <string name="speed">Счетчик скорости</string>
+    <string name="history">История</string>
+
+    <string name="date_format">mm/dd/yyyy HH:mm</string>
+    <string name="rating_dialog">Вам нравится VPN Master?</string>
+
+    <string name="navigation_drawer_open">ящик открыт</string>
+    <string name="navigation_drawer_close">ящик близко</string>
+    <string name="connection_close_confirm">Вы хотите отменить текущее VPN-подключение?</string>
+    <string name="yes">ДА</string>
+    <string name="no">НЕТ</string>
+    <string name="disconnected">Отключено</string>
+    <string name="max_cloud">VPN Master</string>
+    <string name="premium">ПРЕМИУМ</string>
+    <string name="congratulation">ПОЗДРАВЛЯЕМ</string>
+    <string name="you_are">ВЫ</string>
+    <string name="premium_member">ПРЕМИУМ-ЧЛЕН</string>
+    <string name="ad_free">Свободный от рекламы</string>
+    <string name="_24_7_support">Круглосуточная поддержка</string>
+    <string name="no_speed_limit">Без ограничения скорости</string>
+    <string name="premium_location">Премиальное расположение</string>
+    <string name="only">Только</string>
+    <string name="_2_59_month">$1.99/Month</string>
+    <string name="month">/Месяц</string>
+    <string name="_3month">/3Месяц</string>
+    <string name="_6month">/6Месяц</string>
+    <string name="_1year">/1Год</string>
+    <string name="help_to_improve_us_email_subject">Предложения а также Комментарии</string>
+    <string name="help_to_improve_us_body">Пожалуйста, напишите свои комментарии ниже этой строки.</string>
+
+
+    <string name="purchases">Получить Премиум</string>
+    <string name="share">Рассказать другу</string>
+    <string name="rate">Оцените нас</string>
+    <string name="about">О</string>
+    <string name="help">Помогите нам улучшить</string>
+    <string name="faq">FAQ</string>
+    <string name="country_selection">Выберите страну</string>
+    <string name="status">ПОЛОЖЕНИЕ ДЕЛ :</string>
+    <string name="loading">Подключение</string>
+    <string name="default_region">РЕГИОН ПО УМОЛЧАНИЮ</string>
+    <string name="In_most_Android"><![CDATA[In most Android devices, open Android\'s Setting—>Battery-->Battery optimization, select All apps in the dropdown menu, find SuperVPN and set it to Don\'t optimize. In HuaWei devices, open Android\'s Setting-->Battery-->Launch, find SuperVPN in the app list, switch off to Manage manually, enable Auto-launch and Run in background.\n Or you can find battery setting in Protected Apps.\n In Samsung devices, open Android\'s Setting-->Battery-->App Power Saving-->Details, find SuperVPN in the app list and disabled it.\n In other devices, you may find it in Setting-->Battery as Background activity or Protected apps.]]></string>
+    <string name="connection_time">Время соединения</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="_0_mbps">0 mbps</string>
+    <string name="optimal_server">Оптимальный сервер</string>
+    <string name="go_premium">РАЗБЛОКИРОВАТЬ VIP-СЕРВЕРА</string>
+    <string name="go_pro_to_unlock_all_features">Посмотрите видео, чтобы разблокировать серверы</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="ad">Реклама</string>
+    <string name="select_country">Выберите страну</string>
+    <string name="we_need_your_support">Нам нужна ваша поддержка!</string>
+    <string name="rate_us_5_stars">Оцените нас 5 звезд</string>
+    <string name="remind_me_later">НАПОМНИ МНЕ ПОЗЖЕ</string>
+    <string name="Unknown_Server">Неизвестный сервер</string>
+    <string name="Servers">Серверы</string>
+    <string name="get_premium">ПОЛУЧИТЬ ПРЕМИУМ</string>
+
+    <!--FAQ QUESTION DETAILS -->
+    <!--QUESTIONS-->
+    <string name="question1">1. ПОЛУЧИТЬ ПРЕМИУМ</string>
+    <string name="question2">2. Как долго я могу использовать VPN Master для каждого соединения?</string>
+    <string name="question3">3. Почему «не могу» пользоваться интернетом после установления соединения?</string>
+    <string name="question4">4. Как отключить оптимизацию батареи для VPN Master?</string>
+    <string name="question5">5. Что такое смарт-прокси?</string>
+    <string name="question6">6. Когда я пытаюсь подключиться, система Android запрашивает разрешение, но я не могу его принять, почему?</string>
+
+    <!--ANSWERS-->
+    <string name="question1_answer">Нажмите кнопку подключения на главном экране, чтобы использовать VPN Master. Если в системе Android отображается диалоговое окно для запроса разрешения на подключение, нажмите «ОК» или «Принять», чтобы продолжить.</string>
+    <string name="question2_answer">Пока вы можете. Мы не устанавливаем ограничение по времени или трафику для каждого подключения</string>
+    <string name="question3_answer">Прежде всего, проверьте подключение к сети. Затем убедитесь, что «вы» отключили оптимизацию батареи для MaxCloud в настройках батареи «Android» (что означает включение фоновой активности для MaxCloud). Если вы включите Smart Proxy, вам также необходимо убедиться, что все приложения, которые вам нужны для прокси, отмечены в настройках Smart Proxy.</string>
+    <string name="question5_answer">На Android 5.0 или более поздней версии вы можете разрешить только некоторым приложениям использовать VPN Master для прокси-трафика, а все остальные приложения используют локальную сеть. Например, если Facebook и Skype заблокированы в вашей стране, включите их в Smart Proxy. После того, как VPN-подключение установлено, через VPN проходит только трафик Facebook и Skype, а все остальные приложения будут работать как обычно.</string>
+    <string name="question6_answer">Возможно, вы используете какое-то приложение, которое меняет цвет экрана или открывает плавающее окно. Система безопасности «Андроида» не позволяет запускать VPN в этих случаях. Вам нужно временно закрыть такое приложение, чтобы продолжить.</string>
+    <!--END FAQ QUESTION DETAILS-->
+
+    <!--    About us text details-->
+    <string name="Aboutus_page_Text">VPN Master и Security разблокируют Proxy - лучшее в мире приложение supervpn, его Super Secure VPN Unlimited Proxy Server для бесплатного доступа на всю жизнь. Разблокируйте любые веб-сайты, сохраните свое устройство
+    Secure VPN — это самая надежная платформа для обеспечения безопасности, конфиденциальности и доступа с высочайшей производительностью по скорости, стабильности и безопасности для разблокировки сайтов, разблокировки любых приложений или веб-сайтов, доступа к социальным сетям, просмотра видео и фильмов, защиты точки доступа Wi-Fi и защиты конфиденциальности.</string>
+    <string name="exit">Выход</string>
+
+    <string name="get_premium_now">ПОЛУЧИТЬ ПРЕМИУМ СЕЙЧАС</string>
+    <string name="got_premium">ВЫ ПРЕМИУМ-ЧЛЕН</string>
+    <string name="select_plan">Выберите план</string>
+
+
+    <string name="buy_now">Купить сейчас</string>
+    <string name="unlock">Разблокировать</string>
+    <string name="united_kingdom">United kingdom</string>
+    <string name="todo">СДЕЛАТЬ</string>
+    <string name="vpn">VPN</string>
+    <string name="Speed">Скорость</string>
+    <string name="date">Дата</string>
+    <string name="wifi">wifi</string>
+    <string name="mobile">mobile</string>
+    <string name="total">Всего</string>
+    <string name="mbps">MBps</string>
+    <string name="kbps">kBps</string>
+    <string name="megabyte_per_second">(мегабайт в секунду)</string>
+    <string name="kilobyte_per_second">(килобайт в секунду)</string>
+
+    <string name="quick_connect">быстрое соединение</string>
+
+</resources>
